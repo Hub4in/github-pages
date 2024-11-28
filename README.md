@@ -1,5 +1,10 @@
 <header>
 
+Invest with HUB4IN and Secure Your Financial Future
+Looking for high returns with total confidence? At HUB4IN.com, we connect small and large investors with unique investment products in the UAE. Our platform ensures every process is secure and transparent. Start building your financial success today!
+
+
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
